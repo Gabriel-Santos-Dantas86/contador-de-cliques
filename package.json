@@ -1,5 +1,5 @@
   {
-    "name": "contador-clicks",
+    "name": "contador-de-cliques",
     "version": "1.0.0",
     "homepage": "https://gabriel-santos-dantas86.github.io/contador-de-cliques",
     "private": true,
@@ -38,3 +38,4 @@
     }
   
   }
+
